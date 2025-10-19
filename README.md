@@ -125,13 +125,9 @@ screen -r OM1
 
 Node çalıştıktan sonra:
 
-- Portal üzerinden node durumunuzu kontrol edebilirsiniz
-- Kazanç istatistiklerinizi görüntüleyebilirsiniz
 - API kullanımınızı takip edebilirsiniz
 
 ##  Sorun Giderme
-
-### Yaygın Hatalar
 
 **API Key Hatası:**
 
