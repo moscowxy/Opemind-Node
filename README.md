@@ -1,5 +1,5 @@
 # Opemind-Node
-# OpenMind OM1 Node Kurulum Rehberi 🧠
+# OpenMind OM1 Node Kurulum Rehberi
 
 OpenMind OM1 node’u kurarak yapay zeka ağına katkıda bulunun ve ödüller kazanın.
 
@@ -11,7 +11,7 @@ OpenMind OM1 node’u kurarak yapay zeka ağına katkıda bulunun ve ödüller k
 |İnternet Hızı  |500 Mbps+         |
 |İşletim Sistemi|Ubuntu 24.04++    |
 
-## 🚀 Kurulum Adımları
+##  Kurulum Adımları
 
 ### 1. Sistem Güncellemeleri ve Gerekli Paketlerin Kurulumu
 
@@ -54,7 +54,7 @@ uv venv
 source .venv/bin/activate
 ```
 
-## 🔑 API Key Alma
+## API Key Alma
 
 1. **OpenMind Portal’a gidin:** <https://portal.openmind.org/>
 1. **Bakiye Yükleme:**
@@ -66,7 +66,7 @@ source .venv/bin/activate
 - “Create API Key” butonuna tıklayın
 - Verilen API key’i kaydedin (tek sefer gösterilir!)
 
-## ⚙️ Yapılandırma
+## Yapılandırma
 
 ### 1. Ortam Değişkenlerini Ayarlama
 
@@ -91,7 +91,7 @@ Dosyayı kaydetmek için: `CTRL + X`, ardından `Y`, sonra `ENTER`
 uv sync
 ```
 
-## 🏃 Node’u Çalıştırma
+##  Node’u Çalıştırma
 
 ### Screen Oturumu Oluşturma (Önerilen)
 
@@ -121,7 +121,7 @@ Node çalışırken screen’den çıkmak için: `CTRL + A`, ardından `D`
 screen -r OM1
 ```
 
-## 📊 İzleme ve Kontrol
+##  İzleme ve Kontrol
 
 Node çalıştıktan sonra:
 
@@ -129,7 +129,7 @@ Node çalıştıktan sonra:
 - Kazanç istatistiklerinizi görüntüleyebilirsiniz
 - API kullanımınızı takip edebilirsiniz
 
-## 🐛 Sorun Giderme
+##  Sorun Giderme
 
 ### Yaygın Hatalar
 
@@ -156,27 +156,27 @@ uv venv
 source .venv/bin/activate
 ```
 
-## 📝 Notlar
+## Notlar
 
 - Node’u 7/24 çalışır durumda tutun
 - Sunucu kesintilerine karşı dikkatli olun
 - API bakiyenizi düzenli kontrol edin
 - Güvenlik güncellemelerini takip edin
 
-## 🔗 Faydalı Linkler
+## Faydalı Linkler
 
 - **OpenMind Portal:** <https://portal.openmind.org/>
 - **Resmi GitHub:** <https://github.com/openmind/OM1>
 - **Dokümantasyon:** OpenMind resmi websitesini kontrol edin
 
-## ⚠️ Uyarılar
+## Uyarılar
 
 - API key’inizi asla paylaşmayın
 - `.env` dosyanızı asla GitHub’a yüklemeyin
 - Düzenli yedekleme yapın
 - Güvenlik önlemlerinizi güncel tutun
 
-## 📄 Lisans
+## Lisans
 
 Bu proje OpenMind tarafından sağlanmaktadır. Lütfen resmi lisans koşullarını kontrol edin.
 
@@ -184,4 +184,4 @@ Bu proje OpenMind tarafından sağlanmaktadır. Lütfen resmi lisans koşulları
 
 **Sorularınız için:** OpenMind Discord kanalına katılın veya resmi destek kanallarını kullanın.
 
-**İyi çalışmalar! 🚀**
+**İyi çalışmalar! **
